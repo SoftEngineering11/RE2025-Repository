@@ -1,5 +1,7 @@
 # Extended Results for Experiment 1.2- Ambiguity Detection with CoT
 
+This readme contains results for all the settings used for Experiment 1.2: Ambiguity Detection with CoT. We perform zero-, 2-, 4-, 6-shot setting to detect ambiguities in feature requets. We use 6 different metric for evaluation.
+
 
 ### Zero Shot 
 
