@@ -1,6 +1,8 @@
-## Experiment 1.3 - Incompleteness Detection 
+# Extended Results for Experiment 1.3 - Incompleteness Detection 
 
-For **Complete List**
+This readme contains results for all the settings used for Experiment 1.3: Incompleteness Detection. We perform zero-, 2-, 4-, 6-shot setting to detect incompleteness in feature requets. We use cosine similarities for evaluation. 
+
+## For **Complete List**
 
 |        | Seed 10     | Seed 20     | Seed 45     |
 |--------|-------------|-------------|-------------|
@@ -10,7 +12,7 @@ For **Complete List**
 | 6 Shot | 0.176139219 | 0.193023104 | 0.210485074 |
 
 
-For **Individual Elements**
+## For **Individual Elements**
 
 |        | Seed 10     | Seed 20     | Seed 45     |
 |--------|-------------|-------------|-------------|
