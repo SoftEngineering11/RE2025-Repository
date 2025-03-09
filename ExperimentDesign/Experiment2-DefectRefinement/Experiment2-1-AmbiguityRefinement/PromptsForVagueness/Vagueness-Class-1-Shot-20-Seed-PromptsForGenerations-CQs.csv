@@ -1,0 +1,191 @@
+,RequestNumAppName,FeatureRequest,TextAnnotation-GT,Questions,Questions-List,PromptForGeneration
+0,77-Signal,"Request Number - 77 | Request Title - Display all recipients for group thread. | Request Description - After creating a bulk message, the recipients are not easily listed anywhere. The contacts are listed, but after the first few it gets cut. you can check the details of each message sent but that's slow. Please make an option included in a bulk sms message with easily displays the currently included recipients. So I know who any future messages will be sent in bulk too. adding/removing people would be overkill.. but having a nice list would be awesome.",nice list,"What constitutes a ""nice"" list, in your opinion?; What are the specific functionalities and GUI design you are looking for?","['What constitutes a ""nice"" list, in your opinion?', ' What are the specific functionalities and GUI design you are looking for?']","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 77 | Request Title - Display all recipients for group thread. | Request Description - After creating a bulk message, the recipients are not easily listed anywhere. The contacts are listed, but after the first few it gets cut. you can check the details of each message sent but that's slow. Please make an option included in a bulk sms message with easily displays the currently included recipients. So I know who any future messages will be sent in bulk too. adding/removing people would be overkill.. but having a nice list would be awesome.
+####
+Reason: ""Nice"" is a vague term and cannot be measured using any metric. 
+####
+Extracted Vagueness segment: nice list
+####
+Clarifying Question(s): "
+1,77-Signal,"Request Number - 77 | Request Title - Display all recipients for group thread. | Request Description - After creating a bulk message, the recipients are not easily listed anywhere. The contacts are listed, but after the first few it gets cut. you can check the details of each message sent but that's slow. Please make an option included in a bulk sms message with easily displays the currently included recipients. So I know who any future messages will be sent in bulk too. adding/removing people would be overkill.. but having a nice list would be awesome.",easily,"When you wrote ""easily displays"", can you clarify or give examples of what would qualify as easily displaying something?","['When you wrote ""easily displays"", can you clarify or give examples of what would qualify as easily displaying something?']","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 77 | Request Title - Display all recipients for group thread. | Request Description - After creating a bulk message, the recipients are not easily listed anywhere. The contacts are listed, but after the first few it gets cut. you can check the details of each message sent but that's slow. Please make an option included in a bulk sms message with easily displays the currently included recipients. So I know who any future messages will be sent in bulk too. adding/removing people would be overkill.. but having a nice list would be awesome.
+####
+Reason: The term 'easily' is a vague term that cannot be empirically measured, making it impossible to evaluate the success of fulfilling this requirement without additional clarification.
+####
+Extracted Vagueness segment: easily
+####
+Clarifying Question(s): "
+2,778-Signal,"Request Number - 778 | Request Title - Feature Request: Only one notification for multiple messages received at once + Timestamps | Request Description - After being offline (flight mode / no internet connection) my device rings/vibrates multiple times, depending on how many messages have been sent by others in the meantime. Being in a quite active group my device vibrated for about 30 seconds this morning. I can see the point of being notified that not only one but multiple messages have been received but this should be reworked to a less annoying way (e.g., ring twice for multiple messages). Additionally, all messages that get then received are displayed with their receiving time. I would prefer having them displayed with the sending time, which can also be seen by looking in the message details. Maybe a menu entry to switch between both options would be a good idea because I can imagine people who like it the way it is handled now.",less annoying way,"""less annoying way"" is vague, can you provide an explicit way to implement this feature?; Vibration settings can be changed on your own device, further, you can put your phone on silent mode, considering such settings, how do you suggest we notify the user about multiple messages?","['""less annoying way"" is vague, can you provide an explicit way to implement this feature?', ' Vibration settings can be changed on your own device, further, you can put your phone on silent mode, considering such settings, how do you suggest we notify the user about multiple messages?']","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 778 | Request Title - Feature Request: Only one notification for multiple messages received at once + Timestamps | Request Description - After being offline (flight mode / no internet connection) my device rings/vibrates multiple times, depending on how many messages have been sent by others in the meantime. Being in a quite active group my device vibrated for about 30 seconds this morning. I can see the point of being notified that not only one but multiple messages have been received but this should be reworked to a less annoying way (e.g., ring twice for multiple messages). Additionally, all messages that get then received are displayed with their receiving time. I would prefer having them displayed with the sending time, which can also be seen by looking in the message details. Maybe a menu entry to switch between both options would be a good idea because I can imagine people who like it the way it is handled now.
+####
+Reason: The term ""less annoying"" is subjective and vague. What constitutes ""less annoying"" may vary among users and cannot be measured using a specific metric. 
+####
+Extracted Vagueness segment: less annoying way
+####
+Clarifying Question(s): "
+3,587-Signal,Request Number - 587 | Request Title - Support an 'invite friends' feature. | Request Description - How about having a handy link (and easily found) to allow users to share your app?,handy,What target goals should a link meet to be considered 'handy'?,"[""What target goals should a link meet to be considered 'handy'?""]","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 587 | Request Title - Support an 'invite friends' feature. | Request Description - How about having a handy link (and easily found) to allow users to share your app?
+####
+Reason: The terms associated with the word 'handy' are vague terms that cannot be empirically assessed.
+####
+Extracted Vagueness segment: handy
+####
+Clarifying Question(s): "
+4,6468-Signal,"Request Number - 6468 | Request Title - Iran Censored Signal Again! | Request Description - Hi AFAIK In This Issue #5992 Iran Censored Signal and It Seems Problem Solved Here #6006 As We Can See In This Link : elliptic1@ af0ff7d But I Installed v 4.1.0 From Google Play Recently And When Try To Enter My Phone Number and Receive Message The App Shows Me ""Signal Was Unable To Connect To The Server"". The Problem Solved When I Used L2PT VPN USA Country. This Mean Unfortunately Iran Censored Signal Again So Please Solve This Issue Again. Thanks In Advance",Recently,"When you wrote 'recently', can you give a more specific time frame of when this issue took place? Such as a day and time?","[""When you wrote 'recently', can you give a more specific time frame of when this issue took place? Such as a day and time?""]","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 6468 | Request Title - Iran Censored Signal Again! | Request Description - Hi AFAIK In This Issue #5992 Iran Censored Signal and It Seems Problem Solved Here #6006 As We Can See In This Link : elliptic1@ af0ff7d But I Installed v 4.1.0 From Google Play Recently And When Try To Enter My Phone Number and Receive Message The App Shows Me ""Signal Was Unable To Connect To The Server"". The Problem Solved When I Used L2PT VPN USA Country. This Mean Unfortunately Iran Censored Signal Again So Please Solve This Issue Again. Thanks In Advance
+####
+Reason: 'Recently' is a vague term that cannot be empirically measured. 
+####
+Extracted Vagueness segment: Recently
+####
+Clarifying Question(s): "
+5,587-Signal,Request Number - 587 | Request Title - Support an 'invite friends' feature. | Request Description - How about having a handy link (and easily found) to allow users to share your app?,easily found),What target goals should accessing a link achieve to make it sufficiently 'easily found'?,"[""What target goals should accessing a link achieve to make it sufficiently 'easily found'?""]","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 587 | Request Title - Support an 'invite friends' feature. | Request Description - How about having a handy link (and easily found) to allow users to share your app?
+####
+Reason: The term 'easily' is vague and cannot be empirically measured.
+####
+Extracted Vagueness segment: easily found)
+####
+Clarifying Question(s): "
+6,4031-Signal,Request Number - 4031 | Request Title - Cancel media download  | Request Description - Add option to cancel running media downloads Once we go large media this is really needed,large,"When you wrote ""large media"", at what size would you consider media to be large?","['When you wrote ""large media"", at what size would you consider media to be large?']","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 4031 | Request Title - Cancel media download  | Request Description - Add option to cancel running media downloads Once we go large media this is really needed
+####
+Reason: The term 'large' is vague and cannot be empirically measured.
+####
+Extracted Vagueness segment: large
+####
+Clarifying Question(s): "
+7,316-Signal,"Request Number - 316 | Request Title - Feature request: Allow sharing Android calendar events via TextSecure | Request Description - Originally a bug, which should have been titled ""Shared calendar events are not actually attached."" The fix in #1025 removed TS from the ""share with"" list of calendar events, so no longer a bug, but would like to be able to share calendar events via TS, same as can be done with default Android text app. Original (bug) text: Android default Calendar app lets you send a calendar entry. TextSecure is one of the apps that comes up as an option to use for sending. Choosing it, you get to TextSecure, but there is no attachment, just an empty message. (If you choose the regular default Android Text Messaging app, the calendar entry does get properly attached, which is why I suspect the issue is with TextSecure.) Only tried doing this from Calendar, don't know if it's an issue sending via TextSecure from other apps.",properly,"How do you want to see the attached event in your Signal message?; Should the event be presented as a link that entails the event's details?; Do you want to see the whole event and its details (such as timing, location, etc.) in the message?","['How do you want to see the attached event in your Signal message?', "" Should the event be presented as a link that entails the event's details?"", ' Do you want to see the whole event and its details (such as timing, location, etc.) in the message?']","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 316 | Request Title - Feature request: Allow sharing Android calendar events via TextSecure | Request Description - Originally a bug, which should have been titled ""Shared calendar events are not actually attached."" The fix in #1025 removed TS from the ""share with"" list of calendar events, so no longer a bug, but would like to be able to share calendar events via TS, same as can be done with default Android text app. Original (bug) text: Android default Calendar app lets you send a calendar entry. TextSecure is one of the apps that comes up as an option to use for sending. Choosing it, you get to TextSecure, but there is no attachment, just an empty message. (If you choose the regular default Android Text Messaging app, the calendar entry does get properly attached, which is why I suspect the issue is with TextSecure.) Only tried doing this from Calendar, don't know if it's an issue sending via TextSecure from other apps.
+####
+Reason: Properly is vague, and there is no way to evaluate it using a measure. 
+####
+Extracted Vagueness segment: properly
+####
+Clarifying Question(s): "
+8,6592-Signal,"Request Number - 6592 | Request Title - [Feature] Add a private PDF previewer | Request Description - It would be very useful to be able to view PDF documents without saving them unencrypted and with a viewer that is guaranteed not to connect to the Internet or do other nasty things. I understand there's the danger of bloating Signal, but I think this possibility should at least be considered.",nasty things.,What other threats can you identify for saving the PDF file without encryption?,['What other threats can you identify for saving the PDF file without encryption?'],"Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 6592 | Request Title - [Feature] Add a private PDF previewer | Request Description - It would be very useful to be able to view PDF documents without saving them unencrypted and with a viewer that is guaranteed not to connect to the Internet or do other nasty things. I understand there's the danger of bloating Signal, but I think this possibility should at least be considered.
+####
+Reason: ""Nasty"" is vague and needs to clear for testing and evaluation
+####
+Extracted Vagueness segment: nasty things.
+####
+Clarifying Question(s): "
+9,83-Signal ,Request Number - 83 | Request Title - Better identity key synchronization | Request Description - No description provided.,Better,"When you say 'better' identity key synchronization, are you asking saying it should be faster, more secure, more reliable, more user friendly, or something else?; What metrics or goal should be met to qualify as 'better'?","[""When you say 'better' identity key synchronization, are you asking saying it should be faster, more secure, more reliable, more user friendly, or something else?"", "" What metrics or goal should be met to qualify as 'better'?""]","Vagueness: a statement is considered vague if it admits borderline cases. A requirement is vague if it is not clear how to measure whether the requirement is fulfilled or not.
+You are a software analyst specializing in Vagueness resolution in GitHub feature requests.
+Carefully read the provided statement along with the extracted Vagueness segment and the reasoning behind why the extracted text segment is considered ambiguous. Based on the information, generate clear and concise clarification questions aimed at addressing the Vagueness in the extracted text segment; include all generated clarifying questions in a single comma-separated list. Make sure to have all elements of the list in quotation marks.
+Demonstrations are provided for clarity. Each demonstration is separated by the trigger word # END. Inside each demonstration, the statement, reason, extracted segment, and clarifying questions are separated using the trigger word ####. Strictly follow the provided demonstration.
+Statement: Request Number - 2055 | Request Title - use delivery receipts to show message received time for outgoing messages | Request Description - After long pressing on a message and selecting the info button, the message details are shown. This includes the sent and received times for incoming messages. For outgoing messages, in contrast, only one Sent/Received time is displayed, probably containing sent time. Now that delivery receipts are implemented, it would be possible to display the received time for outgoing messages (by taking the sent time from the receipt). Or to make it more precise, let the receipt message piggybag the real received time. This would make the user interface more consistent. When this is rejected for some reasons, I suggest renaming the ""Sent/Received"" label for outgoing messages to ""Sent"" because this is what it really is about.
+####
+Reason: Consistent is a vague and subjective term and cannot be measured 
+####
+Extracted Vagueness segment: consistent.
+####
+Clarifying Question(s): ['What do you mean by consistent?']
+# END
+Request Number - 83 | Request Title - Better identity key synchronization | Request Description - No description provided.
+####
+Reason: 'Better' is a vague term that cannot be empirically measured, and may also be ambiguous as to what attribute(s) is being examined.
+####
+Extracted Vagueness segment: Better
+####
+Clarifying Question(s): "
