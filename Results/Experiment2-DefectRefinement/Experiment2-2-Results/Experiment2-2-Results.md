@@ -1,7 +1,7 @@
 
 ## Experiment 2.2 - Incompleteness Refinement 
 
-### Complete List 
+### Complete-List 
 
 |        | Seed 10     | Seed 20     | Seed 45     |
 |--------|-------------|-------------|-------------|
@@ -11,7 +11,7 @@
 | 3Shot  | 0.531283866 | 0.543699668 | 0.562023418 |
 | 4Shot  | 0.53072762  | 0.561670673 | 0.569029013 |
 
-### Individual Elements
+### Individual-Elements
 
 |        | Seed 10     | Seed 20     | Seed 45     |
 |--------|-------------|-------------|-------------|
