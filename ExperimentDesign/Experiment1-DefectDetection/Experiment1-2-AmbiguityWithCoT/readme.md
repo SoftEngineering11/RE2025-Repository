@@ -1,3 +1,6 @@
+
+### Listing 3: FSL for Ambiguity Detection with CoT
+
 ```
 {Ambiguity Sub-Class}: {Definition} 
 You are a software analyst specializing in ambiguity detection in GitHub feature requests. 
@@ -9,6 +12,7 @@ Feature Request: <Test Feature Request>
 Extracted {Ambiguity Sub-Class} segment(s): 
 ```
 
+### Listing 4: FSL Example for Ambiguity Detection with CoT
 ```
 Statement: <Feature Request> 
 #### 
