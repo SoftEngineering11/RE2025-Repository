@@ -16,7 +16,7 @@ Extracted {Ambiguity Sub-Class} segment(s):
 ```
 Statement: <Feature Request> 
 #### 
-Extracted {Ambiguity Sub-Class} segment(s): [Text segment 1, ... , Text segment n>]
+Extracted {Ambiguity Sub-Class} segment(s): [Text segment 1, ... , Text segment n]
 # END 
 Statement: <Feature Request> 
 #### 
