@@ -1,6 +1,4 @@
-## Prompt and Examples for Experiment 1.1 - Ambiguity Detection without CoT
-
-### Listing 1: Prompt for FSL - Ambiguity Detection without CoT
+### Listing 1: FSL for Ambiguity Detection without CoT
 ```
 {Ambiguity Sub-Class}: Definition  
 You are a software analyst specializing in ambiguity detection in GitHub feature requests. 
@@ -15,7 +13,7 @@ Statement: <Test Feature Request>
 Extracted {Ambiguity Sub-Class} segment(s):
 ```
 
-### Listing 2: Example format for Listing 1
+### Listing 2: FSL Example for Ambiguity Detection without CoT
 ```
 Statement: <Feature Request> 
 #### 
