@@ -1,4 +1,4 @@
-## Prompt and Example for Experiment 1.1 - Ambiguity Detection without CoT
+## Prompt and Examples for Experiment 1.1 - Ambiguity Detection without CoT
 
 ### Prompt
 ```
