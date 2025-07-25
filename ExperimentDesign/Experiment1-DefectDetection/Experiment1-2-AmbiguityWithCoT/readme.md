@@ -1,5 +1,5 @@
 
-### Listing 3: FSL for Ambiguity Detection with CoT
+### Listing 3: FSL for Ambiguity Detection with Reasoning
 
 ```
 {Ambiguity Sub-Class}: {Definition} 
@@ -12,7 +12,7 @@ Feature Request: <Test Feature Request>
 Extracted {Ambiguity Sub-Class} segment(s): 
 ```
 
-### Listing 4: FSL Example for Ambiguity Detection with CoT
+### Listing 4: FSL Example for Ambiguity Detection with Reasoning
 ```
 Statement: <Feature Request> 
 #### 
