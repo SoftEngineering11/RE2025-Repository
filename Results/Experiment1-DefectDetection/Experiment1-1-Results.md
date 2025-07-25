@@ -1,4 +1,4 @@
-# Extended Results for Experiment 1.1 - Ambiguity Detection without CoT 
+# Extended Results for Experiment 1.1 - Ambiguity Detection without Reasoning
 
 This readme contains results for all the settings used for Experiment 1.1: Ambiguity Detection without CoT. We perform zero-, 2-, 4-, 6-shot setting to detect ambiguities in feature requets. We use 6 different metric for evaluation.
 
